@@ -1,2 +1,2 @@
 import express from "express";
-export const borrowsRoutes = express.Router();
+export const borrowRoutes = express.Router();
